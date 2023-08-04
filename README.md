@@ -1,3 +1,5 @@
+<img width="1440" alt="image" src="https://github.com/Fut1le/spotlight-music/assets/43324348/c96c9e45-6924-412e-afc2-2fe989a7cef3">
+
 # Spotlight Music 🎶
 ### This is an online radio that plays Lo-fi music. This project includes a nice visualization of dispersion for relaxation. This application can be used for work or study by putting music on the background.
 
