@@ -10,4 +10,10 @@ https://github.com/Fut1le/spotlight-music/assets/43324348/ef34ee61-1b65-4c42-941
 ## Visualization:
 https://github.com/Fut1le/spotlight-music/assets/43324348/28d04190-8473-4011-9cb2-5764408b641d
 
+### ToDo:
+- add more genres of music to stream.
+- website structure and some functions.
+- optimization for mobile platforms.
+- create a "zen mode" where u can listen white noise or rain sounds.
+- player custom controls.
 
